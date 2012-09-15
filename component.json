@@ -12,17 +12,5 @@
     ]
   , "main": "./qwery.js"
   , "scripts": [ "./qwery.js" ]
-  , "keywords": ["ender", "query", "css", "selector engine"]
-  , "ender": "./src/ender.js"
-  , "repository": {
-        "type": "git"
-      , "url": "https://github.com/ded/qwery.git"
-    }
-  , "devDependencies": {
-        "sink-test": ">= 1.0.1"
-      , "serve": "*"
-    }
-  , "scripts": {
-      "test": "phantomjs tests/phantom.js"
-    }
+  , "keywords": ["query", "css", "selector engine"]
 }
